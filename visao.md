@@ -1,5 +1,10 @@
 # Sleep Well - Documento do Projeto
 
+## Antônio Victor Alves da Costa
+## Sammuel Luna
+## Islan Pedro
+## Rafael Bueno
+
 ## 1. Introdução
 O **Sleep Well** é um aplicativo para monitoramento do sono e despertador inteligente, ajudando os usuários a acordarem no momento ideal e melhorarem a qualidade do sono.
 
