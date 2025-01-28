@@ -20,9 +20,7 @@ O **Sleep Well** oferece um conjunto de funcionalidades para melhorar a rotina d
 ## 4. Arquitetura do Sistema
 O aplicativo segue a arquitetura MVVM:
 
-```
-Usuário → UI (Jetpack Compose) → ViewModel → Repository → Firestore | Room | API
-```
+![Diagrama da Arquitetura do Sistema](/arquiteturaSistemaSVG.svg)
 
 ## 5. Requisitos de Software e Casos de Uso
 ### 5.1 Usuários Identificados
@@ -43,6 +41,7 @@ Usuário → UI (Jetpack Compose) → ViewModel → Repository → Firestore | R
 
 ## 6. Diagrama de Casos de Uso
 
+![Diagrama de Casos de Uso](/casosDeUsoSleepWellSVG.svg)
 
 ## 7. Wireframe do Aplicativo
 
